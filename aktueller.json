@@ -2,22 +2,22 @@
 
 {
 "id":1,
-"isim":"",
-"marka_logo":"",
+"isim":"A-101",
+"marka_logo":"a101",
 "aktuel_resim":"",
 "tarih":""
 },
 {
-"id":1,
+"id":2,
 "isim":"BİM",
-"marka_logo":"",
+"marka_logo":"bim",
 "aktuel_resim":"",
 "tarih":""
 },
 {
-"id":1,
+"id":3,
 "isim":"ŞOK",
-"marka_logo ":"",
+"marka_logo ":"sok",
 "aktuel_resim":"",
 "tarih":""
 }
