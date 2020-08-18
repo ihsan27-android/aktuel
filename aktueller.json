@@ -4,22 +4,22 @@
 "id":1,
 "isim":"A-101",
 "marka_logo":"a101",
-"aktuel_resim":"",
-"tarih":""
+"aktuel_resim":"a101",
+"tarih":"11.07.2017"
 },
 {
 "id":2,
 "isim":"BİM",
 "marka_logo":"bim",
-"aktuel_resim":"",
-"tarih":""
+"aktuel_resim":"bim",
+"tarih":"11.07.2017"
 },
 {
 "id":3,
 "isim":"ŞOK",
 "marka_logo ":"sok",
-"aktuel_resim":"",
-"tarih":""
+"aktuel_resim":"sok",
+"tarih":"11.07.2017"
 }
 
 }
